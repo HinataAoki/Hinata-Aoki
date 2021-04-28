@@ -1,7 +1,7 @@
 # Hinata-Aoki
 
 I'm a student of Sophia Univ.
-I like AI,3D,VR,Game.
+I like AI,3D,VR,Game,BMI.
 Please contact me.
 ____________________
 Twitter : @WnRuI
